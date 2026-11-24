@@ -1,9 +1,9 @@
 # Jaime Pineda Moreno
 
-Soy médico de urgencias y científico de datos en Madrid. Desarrollo software clínico y enseño ciencia de datos en UNIE.
+I’m an emergency physician and data scientist based in Madrid. I develop clinical software and teach data science at UNIE.
 
-## Proyectos seleccionados
+## Selected projects
 
-- **EDxPlain.** En el equipo Bridge combiné medicina de urgencias y aprendizaje automático para convertir informes de alta en guías para pacientes. Ganamos el GenAI Health Hack 2026. [Proyecto](https://aiojpineda.github.io/edxplain-site/) · [Premio del Hospital Clínic](https://www.clinicbarcelona.org/noticias/una-solucion-que-transforma-los-informes-de-urgencias-en-guias-personalizadas-para-los-pacientes-gana-el-genai-health-hack-2026)
-- **PAINT.** Soy coautor de este estudio sobre cómo se describe el dolor en exámenes médicos y textos clínicos en cuatro idiomas. Participé en la validación clínica de los datos en español. [Artículo en ACL Anthology](https://aclanthology.org/2026.mrl-1.51/)
-- **The Gammas.** Desarrollé software y validé el análisis entre dos cohortes para estudiar la relación entre la conectividad cerebral y la memoria de trabajo. [Código e informe](https://github.com/The-Gammas/The-Gammas) · [Contribuciones del equipo](https://github.com/The-Gammas/The-Gammas/blob/main/AUTHORS.md)
+- **EDxPlain.** As part of Team Bridge, I combined my experience in emergency medicine and machine learning to turn emergency department discharge notes into guides patients can understand. Our team won the 2026 GenAI Health Hack. [Project](https://aiojpineda.github.io/edxplain-site/) · [Award announcement from Hospital Clínic Barcelona](https://www.clinicbarcelona.org/noticias/una-solucion-que-transforma-los-informes-de-urgencias-en-guias-personalizadas-para-los-pacientes-gana-el-genai-health-hack-2026)
+- **PAINT.** I co-authored this study of how pain is described in medical licensing exams and clinical texts across four languages. I contributed to the clinical validation of the Spanish-language data. [Paper in the ACL Anthology](https://aclanthology.org/2026.mrl-1.51/)
+- **The Gammas.** I developed analysis software and validated the approach across two cohorts to study the relationship between brain connectivity and working memory. [Code and report](https://github.com/The-Gammas/The-Gammas) · [Team contributions](https://github.com/The-Gammas/The-Gammas/blob/main/AUTHORS.md)
